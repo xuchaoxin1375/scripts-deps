@@ -8,7 +8,8 @@
 |---|---|---|---|---|---|---|
 | argc | sigoden/argc | v1.24.0 | argc-v1.24.0 | argc-v1.24.0-x86_64-pc-windows-msvc.zip | 0.42 MB | 70f70b987cba68677db17c2012b6b7faf09a7374896b98c7ed4d039262f72914 |
 | argc | sigoden/argc | v1.24.0 | argc-v1.24.0 | LICENSE-APACHE | 0.01 MB | c71d239df91726fc519c6eb72d318ec65820627232b2f796219e87dcf35d0ab4 |
-| argc | sigoden/argc | v1.24.0 | argc-v1.24.0 | SHA256SUMS | 0.00 MB | 28ca41705106d6d9b2cf05022af2dd8199f8efb7eea11900157ea93b15cedba3 |
+| argc | sigoden/argc | v1.24.0 | argc-v1.24.0 | LICENSE-MIT | 0.00 MB | 5af431a6a9869052e2be4e71ccd731c7efe45dca47eaca84d4d1fb38f134cb79 |
+| argc | sigoden/argc | v1.24.0 | argc-v1.24.0 | SHA256SUMS | 0.00 MB | 00357946995abfa6162b3501d57fa86b0b5564024201fc8d0a80fc638ae60b58 |
 | argc-completions | sigoden/argc-completions | main | argc-completions-main-20261022 | argc-completions-main-19b70387.zip | 2.84 MB | 0896ead68c3b4e25ba10186069ac9ecc1eebb63ff22a512613e7f53e0e7b9224 |
 | argc-completions | sigoden/argc-completions | main | argc-completions-main-20261022 | LICENSE | 0.00 MB | 2af7fe26fbe3b0e89533ba18d81c80c2fbcda6ecc71d64d5819652aa9b0d52f5 |
 | argc-completions | sigoden/argc-completions | main | argc-completions-main-20261022 | SHA256SUMS | 0.00 MB | 979e1b2f722d0375c3fd09543eff0980c94b4e3d0dec0f8b2d242cd53fce51c5 |
